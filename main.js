@@ -110,7 +110,6 @@ button.addEventListener("click", function () {
         item.remove();
     })
 
-
     // empty input field
     input.value = "";
 })
