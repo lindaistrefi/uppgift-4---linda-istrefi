@@ -1,0 +1,32 @@
+body {
+
+    background-color: floralwhite;
+
+}
+
+h1 {
+
+    color: blueviolet;
+}
+
+#addTodo {
+
+    color: purple;
+
+}
+
+
+.completed {
+
+    color: pink;
+    text-decoration: line-through;
+}
+
+/* This is a class, i can reuse it every time*/
+
+.trashcan {
+
+    margin-left: 40px;
+    cursor: pointer;
+
+}
